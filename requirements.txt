@@ -1,0 +1,13 @@
+python-dotenv
+openai
+langchain
+llama-index==0.8.2
+pypdf
+PyCryptodome
+gradio
+transformers
+span-marker
+nltk
+llama-hub
+tesseract
+pytesseract
