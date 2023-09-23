@@ -1,7 +1,7 @@
 python-dotenv
 openai
 langchain
-llama-index==0.8.2
+llama-index
 pypdf
 PyCryptodome
 gradio
